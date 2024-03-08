@@ -3,32 +3,32 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: Dribbble
+    - title: YouTube
       logo: 
-      url: https://dribbble.com/
-      description: 全球UI设计师作品分享平台。
-    - title: Behance
-      url: https://behance.net/
-      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-    - title: 二维码演示
+      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
+      description: 一个专注于软件安装，科学上网教学的频道！
+    - title: 资源博客
+      url: https://kjgx668.blogspot.com/
+      description: 资源分享，详细图文教程。
+    - title: 环球巴士
       qrcode: images/qrcodes/cli.png
       logo: 
-      url: https://cli.im/url
-      description: 二维码演示，手机扫一扫，也可以点击
-    - title: UI中国
-      url: https://www.ui.cn/
-      description: 图形交互与界面设计交流、作品展示、学习平台。
-    - title: 站酷
+      url: https://universalbus.cn?s=gB8CJKmJdd
+      description: 流媒体影音账号合租平
+    - title: 虚拟信用卡
+      url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
+      description: 支付宝、微信充值，海外消费。
+    - title: 美国虚拟卡
       url: https://www.zcool.com.cn/
-      description: 中国人气设计师互动平台
-    - title: Pinterest
+      description: usdt套现，国内拼多多消费，支付宝消费
+    - title: 接码平台
       logo:
       url: https://www.pinterest.com/
       description: 全球美图收藏采集站
-    - title: 花瓣
+    - title: Telegram
       logo: 
-      url: https://huaban.com/
-      description: 收集灵感,保存有用的素材
+      url: https://t.me/kjgxZY/
+      description: 科技共享资源频道
     - title: Medium
       url: https://medium.com/
       description: 高质量设计文章
