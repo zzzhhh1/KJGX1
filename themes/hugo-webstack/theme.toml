@@ -12,7 +12,7 @@ min_version = "0.116.1"
 
 [author]
   name = "oulh"
-  homepage = "https://oulh.github.io/nav/"
+  homepage = "https://afengxiang.github.io/afx/"
 
 # If porting an existing theme
 [original]
