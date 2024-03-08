@@ -11,7 +11,7 @@ copyright = "afx"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
-  keywords = "网址导航,webstack,hugo"
+  keywords = "网址导航,webstack,hugo,vpn,科学上网，免费节点，爱分享，科技共享"
   description = "Webstack Hugo版主题,网址导航"
 
 #是否开启搜索栏，true开启，false关闭
