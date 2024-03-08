@@ -14,7 +14,7 @@
       description: 资源分享，详细图文教程。
     - title: 环球巴士
       qrcode: 
-      logo: 
+      logo: images/logos/HQBS.png
       url: https://universalbus.cn?s=gB8CJKmJdd
       description: 流媒体影音账号合租平
     - title: 虚拟信用卡
