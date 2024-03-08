@@ -11,7 +11,7 @@
       url: https://kjgx668.blogspot.com/
       description: 资源分享，详细图文教程。
     - title: 环球巴士
-      qrcode: images/qrcodes/cli.png
+      qrcode: 
       logo: 
       url: https://universalbus.cn?s=gB8CJKmJdd
       description: 流媒体影音账号合租平
@@ -36,15 +36,15 @@
       logo:  
       url: https://sms-activate.org/?ref=4312619/
       description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
-    - title: Producthunt
-      url: https://www.producthunt.com/
-      description: 发现新鲜有趣的产品
-    - title: Youtube
-      url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
-    - title: Google
-      url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
+    - title: Base64编码解码
+      url: https://www.matools.com/base64/
+      description: 将utf-8能表示的所有字符进行Base64编码加密解密
+    - title: OneDrive直链
+      url: https://onedrive.gimhoy.com/
+      description: OneDrive直链获取工具
+    - title: UUID生成
+      url: https://1024tools.com/uuid/
+      description: UUID在线生成
     
 
 - taxonomy: 社区咨询
