@@ -3,9 +3,9 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: YouTube
+    - title: 科技共享YouTube
       logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
+      url: https://www.youtube.com/channel/UCQoagx4VHBw3HkAyzvKEEBA/
       description: 一个专注于软件安装，科学上网教学的频道！
     - title: 资源博客
       qrcode: images/qrcodes/bk.png
