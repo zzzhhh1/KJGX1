@@ -12,7 +12,7 @@ draft: false
 
 ### 本站模板
 
-[https://github.com/oulh/nav](https://github.com/oulh/nav)
+[https://github.com/oulh/nav](http://kjgx.168668520.xyz/)
 
 ### 本站主题
 
