@@ -32,7 +32,7 @@ copyright = "KJGX"
 #桌面端右上角code按钮
 [params.github]
   enable = true #true显示 false隐藏
-  url = "https://kjgx668.blogspot.com/"
+  url = "https://kjgx668.blogspot.com/2024/03/2024vpsvps.html"
   
 [permalinks]  
   404 = "/404.html"
