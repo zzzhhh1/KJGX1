@@ -14,7 +14,7 @@
       description: 资源分享，详细图文教程。
     - title: 论坛交流
       qrcode: 
-      logo:  
+      logo: images/logos/images.png  
       url: https://kjgx.freeflarum.com/
       description: 问题描述，技术交流。
     - title: 环球巴士
