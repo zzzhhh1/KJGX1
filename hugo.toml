@@ -1,13 +1,13 @@
 baseURL = "http://example.org/"
 languageCode = "zh-CN"
-title = "爱分享导航站"
+title = "科技共享导航站"
 theme = "hugo-webstack"
 
 #true:允许大写字母url路径，false:将url路径转换成小写
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "afx"
+copyright = "KJGX"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
