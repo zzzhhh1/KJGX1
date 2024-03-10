@@ -54,7 +54,10 @@
     - title: UUID生成
       url: https://1024tools.com/uuid/
       description: UUID在线生成
-    
+    - title: 短链接在线生成
+      logo: 
+      url: https://duanlianjie.szg502797091.workers.dev/kjgx/
+      description: 链接缩短,永久有效,自定义后缀/LocalStorage
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
