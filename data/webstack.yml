@@ -58,6 +58,14 @@
       logo: images/logos/360截图18231116897781.png
       url: https://duanlianjie.szg502797091.workers.dev/kjgx/
       description: 链接缩短,永久有效,自定义后缀/LocalStorage
+    - title: 文叔叔
+      logo: 
+      url: https://www.wenshushu.cn/
+      description: 传临时文件,大文件、永不限速
+    - title: 网络剪贴板
+      logo: 
+      url: https://netcut.cn/
+      description: 提供数据暂存和传送服务
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
