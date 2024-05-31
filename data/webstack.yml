@@ -27,7 +27,7 @@
       description: 支付宝、微信充值，海外消费。
     - title: 免翻NewBing
       qrcode: 
-      logo:images/logos/newbing.png
+      logo: images/logos/newbing.png
       url: bing.kjgxbing.cloudns.be
       description: usdt套现，国内拼多多消费，支付宝消费
     - title: IOS (苹果) ID 礼品卡/兑换码
