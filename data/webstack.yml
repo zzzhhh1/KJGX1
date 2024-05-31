@@ -28,7 +28,7 @@
     - title: NewBing
       qrcode: 
       logo: images/logos/newbing.png
-      url: bing.kjgxbing.cloudns.be
+      url: https://bing.kjgxbing.cloudns.be/web/#/
       description: 无需梯子直接使用，内置GPT4，DALLE3以及各种插件
     - title: IOS (苹果) ID 礼品卡/兑换码
       logo:  images/logos/5eac6d69dc12980944f98.jpg
