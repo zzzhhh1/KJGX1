@@ -25,10 +25,10 @@
     - title: 虚拟信用卡
       url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
       description: 支付宝、微信充值，海外消费。
-    - title: 美国虚拟卡
-      qrcode: images/qrcodes/usdt.png
+    - title: 免翻NewBing
+      qrcode: 
       logo:
-      url: https://www.asinx.io/#/pages/member/register/register?code=9h9oxmkt/
+      url: bing.kjgxbing.cloudns.be
       description: usdt套现，国内拼多多消费，支付宝消费
     - title: IOS (苹果) ID 礼品卡/兑换码
       logo:  images/logos/5eac6d69dc12980944f98.jpg
