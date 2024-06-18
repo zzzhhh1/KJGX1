@@ -24,7 +24,7 @@
       description: 流媒体影音账号合租平
     - title: 虚拟信用卡
       url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
-      description: 无需实名，支持微信充值、支付宝、海外消费。
+      description: 无需实名，支持微信、支付宝、海外消费。
     - title: NewBing
       qrcode: 
       logo: images/logos/newbing.png
