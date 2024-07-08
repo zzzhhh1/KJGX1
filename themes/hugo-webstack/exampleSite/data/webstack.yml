@@ -45,7 +45,8 @@
     - title: Google
       url: https://www.google.com/
       description: 全球最大的UI学习分享平台
-    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7982305875180871"
+     crossorigin="anonymous"></script>
 
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
