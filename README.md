@@ -4,7 +4,7 @@
 
 详细内容请看主题 [hugo-webstack](https://github.com/oulh/hugo-webstack)
 
-访问链接：[oulh.github.io/nav](https://oulh.github.io/nav/)
+访问链接：[oulh.github.io/nav](https://afengxiang.github.io/afx//)
 
 ## 使用方法
 
