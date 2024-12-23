@@ -15,25 +15,25 @@
     - title: visa虚拟信用卡
       qrcode: 
       logo: images/logos/images.png  
-      url: https://app.pokepay.cc/pages/passport/invitation?r=145892
+      url: https://app.pokepay.cc/pages/passport/invitation?r=145892/
       description: usdt支付宝消费AlipayHK套现
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png
-      url: https://universalbus.cn?s=gB8CJKmJdd
+      url: https://universalbus.cn?s=gB8CJKmJdd/
       description: 流媒体影音账号合租平
     - title: 万事达虚拟信用卡
-      url: https://bewildcard.com/i/WGRDRMGL
+      url: https://bewildcard.com/i/WGRDRMGL/
       description: 无需实名，支持微信、支付宝、海外消费。
     - title: 轻抖
       qrcode: 
       logo: images/logos/qingdou.jpg
-      url: https://share.qingdouyin.com/app/sub-commission-download/1652420599279?type=&code=EWDJXS
-      description: 涨粉、引流、工具、选品、自购、课程、辅导等一站式服务，总有一款适合你！全网达人都在用
+      url: https://share.qingdouyin.com/app/sub-commission-download/1652420599279?type=&code=EWDJXS/
+      description: 涨粉、引流、工具、选品、自购、课程、辅导等一站式服务，总有一款适合你！全网达人都在用。
     - title: IOS (苹果) ID 礼品卡/兑换码
       logo:  images/logos/5eac6d69dc12980944f98.jpg
       url: https://app.xintaifree.com?from=5431/
-      description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
+      description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！
     - title: Telegram
       logo: 
       url: https://t.me/kjgxZY/
