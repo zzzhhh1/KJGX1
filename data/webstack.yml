@@ -14,7 +14,7 @@
       description: 资源分享，详细图文教程。
     - title: visa虚拟信用卡
       qrcode: 
-      logo: images/logos/images.png  
+      logo:   
       url: https://app.pokepay.cc/pages/passport/invitation?r=145892/
       description: usdt支付宝消费AlipayHK套现
     - title: 环球巴士
