@@ -14,7 +14,7 @@
       description: 资源分享，详细图文教程
     - title: visa虚拟信用卡
       qrcode: 
-      logo:  
+      logo:  images/logos/visa.png
       url: https://app.pokepay.cc/pages/passport/invitation?r=145892/
       description: usdt支付宝消费AlipayHK套现
     - title: 环球巴士
@@ -23,6 +23,7 @@
       url: https://universalbus.cn?s=gB8CJKmJdd/
       description: 流媒体影音账号合租平
     - title: 万事达虚拟信用卡
+      logo:  images/logos/MasterCard.png
       url: https://bewildcard.com/i/WGRDRMGL/
       description: 无需实名，支持微信、支付宝、海外消费
     - title: 轻抖
