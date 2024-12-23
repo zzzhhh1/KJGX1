@@ -11,9 +11,8 @@
       qrcode: images/qrcodes/bk.png
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
       url: https://kjgx668.blogspot.com/
-      description: 资源分享，详细图文教程。
-    - title: visa虚拟信用卡
-      qrcode: 
+      description: 资源分享，详细图文教程
+    - title: visa虚拟信用卡 
       logo:  
       url: https://app.pokepay.cc/pages/passport/invitation?r=145892/
       description: usdt支付宝消费AlipayHK套现
@@ -24,7 +23,7 @@
       description: 流媒体影音账号合租平
     - title: 万事达虚拟信用卡
       url: https://bewildcard.com/i/WGRDRMGL/
-      description: 无需实名，支持微信、支付宝、海外消费。
+      description: 无需实名，支持微信、支付宝、海外消费
     - title: 轻抖
       qrcode: 
       logo: images/logos/qingdou.jpg
