@@ -72,7 +72,11 @@
       logo: images/logos/9esim.png
       url: https://www.9esim.com/?coupon=kjgx
       description: 让国行手机也有eSIM功能
-      
+    - title: 9eSIM卡
+      logo: images/logos/9esim.png
+      url: https://www.9esim.com/?coupon=kjgx
+      description: 让国行手机也有eSIM功能 
+
      
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
