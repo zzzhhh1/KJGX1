@@ -14,7 +14,7 @@
       description: 资源分享，详细图文教程
     - title: 免费专业PDF工具
       qrcode: 
-      logo: static/images/logos/pdf.jpg
+      logo: images/logos/pdf.jpg
       url: https://99688988.xyz/
       description: 浏览器中免费、100%私密、强大的PDF处理安全无隐私风险
     - title: visa虚拟信用卡
