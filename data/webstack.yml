@@ -53,6 +53,7 @@
       url: https://hero-sms.com/?ref=489021
       description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
     - title: Base64编码解码
+      logo:  images/logos/Base64.png
       url: https://tools.99688988.xyz/base64-string-converter
       description: 将utf-8能表示的所有字符进行Base64编码加密解密
     - title: OneDrive直链
